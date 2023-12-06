@@ -120,4 +120,5 @@ def s2():
 
     print(simplify_ranges(seed_ranges))
 
+
 s2()
